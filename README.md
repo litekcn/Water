@@ -23,24 +23,6 @@
 - 🔨 **支持高度自定义** - 轻松突出你的品牌
 - 🎯 **与社区共进** - 开源、开放
 
-## 📲 开始
-
-```sh
-
-# 建议使用 pnpm 安装，更小更方便
-
-pnpm add --save-dev lidesign
-
-# 或者使用 npm 安装
-
-npm install --save-dev lidesign
-
-# 或者使用 yarn 安装
-
-yarn add --save-dev lidesign
-
-```
-
 <h6>© Copyright 2023 Litek Teahouse Group , Designed in Earth , Under the <a href="https://github.com/litekcn/lidesign/LICENSE">MIT License</a></h6>
 
 

@@ -41,12 +41,6 @@ yarn add --save-dev lidesign
 
 ```
 
-```typescript
-import { createApp } from 'vue'
-import App from './App.vue'
-import LiDesign from 'lidesign'
-```
-
 <h6>© Copyright 2023 Litek Teahouse Group , Designed in Earth , Under the <a href="https://github.com/litekcn/lidesign/LICENSE">MIT License</a></h6>
 
 

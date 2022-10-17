@@ -4,8 +4,8 @@
 
 <h2>LiDesign</h2>
 
-<h6>Quickly build User Interface with Vue.js 3 - It is Powerful & Amazing<br>
-在 Vue.js 3 中快速构建交互界面 - 好看且轻松</h6>
+<h6>Build User Interface with Vue.js 3 - It is Powerful & Amazing<br>
+在 Vue.js 3 中构建交互界面 - 好看且轻松</h6>
 
 <a href="https://ds.licn.eu.org">
 🖥 官网</a> | 

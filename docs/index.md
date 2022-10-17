@@ -2,19 +2,19 @@
 layout: home
 
 hero:
-  name: Lelang
-  text: Next Cyber Trash Language Ecosystem.
-  tagline: 乐语言，次世代赛诺垃圾编程语言生态系统，由乐色报纸基金会（LPSF）提供支持。
+  name: LiDesign
+  text: 花更少的时间，写更好的界面。
+  tagline: 目标是「次世代设计生态」
   image:
-    src: /logo.png
+    src: https://alpha-q3.sourcegcdn.com/2022/10/17/taJZEO3a.png
     alt: Lelang
   actions:
     - theme: brand
-      text: Get Started 立即开始
+      text: 立即开始
       link: /guide/introduction
     - theme: alt
-      text: View GitHub
-      link: https://github.com/xwtlt/vitepress
+      text: 查看 GitHub
+      link: https://github.com/litekcn/LiDesign
 
 features:
   - icon: ⚡️

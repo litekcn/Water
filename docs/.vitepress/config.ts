@@ -37,7 +37,6 @@ const config = defineConfig({
       { text: 'Component', link: '/component' },
       { text: 'Template', link: '/template' }
         ],
-    ],
     sidebar: [
       {
         text: 'Guide',

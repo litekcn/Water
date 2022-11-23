@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: LiDesign
-  text: 花更少的时间，写更好的界面。
-  tagline: 目标是「次世代设计生态」
+  name: Water Design
+  text: 花更少的时间，写更好的界面
+  tagline: 一套体系完整的设计系统
   image:
     src: https://alpha-q3.sourcegcdn.com/2022/10/17/taJZEO3a.png
     alt: Lelang
@@ -14,7 +14,7 @@ hero:
       link: /guide/introduction
     - theme: alt
       text: 查看 GitHub
-      link: https://github.com/litekcn/LiDesign
+      link: https://github.com/litekcn/water
 
 features:
   - icon: ⚡️
@@ -30,3 +30,5 @@ features:
     title: Notepad
     details: Notepad 将是您最好的 IDE，程序员的最佳伙伴，因为 Spruce Sapling 曾说，真正的程序员不需要看提示，在 Notepad 里，我们去繁从简，取消了一切无用的功能。
 ---
+
+`Work in Progress`

@@ -2,10 +2,10 @@
 
 <img src="https://avatars.githubusercontent.com/u/114280360?s=200&v=4" height="82" width="82"/>
 
-<h2>LiDesign</h2>
+<h2>Water Design</h2>
 
 <h6>Build User Interface with Vue.js 3 - It is Powerful & Amazing<br>
-在 Vue.js 3 中构建交互界面 - 好看且轻松</h6>
+使用 Water Design 组件库在 Vue.js 3 中构建交互界面 - 好看且轻松</h6>
 
 <a href="https://ds.licn.eu.org">
 🖥 官网</a> | 
@@ -16,7 +16,7 @@
 
 </div>
 
-> ✔ **Developing** **开发中** <br>本项目正在有序的施工中……
+> ✔ **Work in Progress** **开发中** <br>本项目正在有序的施工中……
 
 ## 🎊 特点
 

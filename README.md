@@ -27,6 +27,10 @@
 - 🔨 **支持高度自定义** - 轻松突出你的品牌
 - 🎯 **与社区共进** - 开源、开放
 
+## 📍 使用
+
+npm包还没发布
+
 <h6>© Copyright 2023 Litek Teahouse Group , Designed in Earth , Under the <a href="https://github.com/litekcn/lidesign/LICENSE">MIT License</a></h6>
 
 

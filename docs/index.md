@@ -30,5 +30,3 @@ features:
     title: 与社区共进
     details: 开源、开放的设计系统，每个人互利互享
 ---
-
-`Work in Progress`

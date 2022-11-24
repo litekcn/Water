@@ -12,13 +12,13 @@ const config = defineConfig({
     logo: 'https://avatars.githubusercontent.com/u/114280360?s=200&v=4',
     lastUpdatedText: '最后更新时间',
     editLink: {
-      pattern: 'https://github.com/xwtlt/lelang/edit/main/docs/:path',
+      pattern: 'https://github.com/litekcn/water/edit/main/docs/:path',
       text: '✍️ 帮助改善此页面',
     },
     localeLinks: {
       text: '',
       items: [
-        { text: 'English', link: '/en' },
+        { text: 'English', link: '/en/index' },
         { text: '简体中文', link: '/' },
       ],
     },
@@ -33,12 +33,17 @@ const config = defineConfig({
       }
     ],
     nav: [
-      { text: 'Guide', link: '/guide' },
-      { text: 'Component', link: '/component' },
+      { text: 'Guide', link: '/guide/introduction' },
+      { text: 'Component', link: '/component/library' },
       { text: 'Template', link: '/template' }
         ],
     sidebar: [
       {
+        text: 'Guide',
+        items: [
+          { text: 'Introduction', link: '/guide/introduction' },
+          { text: 'Get Started', link: '/guide/get-started' }
+        ],
         text: 'Guide',
         items: [
           { text: 'Introduction', link: '/guide/introduction' }

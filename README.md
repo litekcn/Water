@@ -7,12 +7,12 @@
 <h6>Build User Interface with Vue.js 3 - It is Powerful & Amazing<br>
 使用 Water Design 组件库在 Vue.js 3 中构建交互界面 - 好看且轻松</h6>
 
-<a href="https://ds.licn.eu.org">
+<a href="https://water.licn.eu.org">
 🖥 官网</a> | 
-<a href="https://ds.licn.eu.org">
+<a href="https://water.licn.eu.org">
 📃 文档</a>
 
-<b>🌏 | <a href="https://github.com/litekcn/lidesign/README.md">简体中文</a> | <a href="https://github.com/xwtlt/Yuqin/">Translate</a></b>
+<b>🌏 | <a href="https://github.com/litekcn/water/README.md">简体中文</a> | <a href="https://github.com/litekcn/water/">Translate</a></b>
 
 </div>
 
@@ -29,9 +29,30 @@
 
 ## 📍 使用
 
-npm包还没发布
+**安装**
 
-<h6>© Copyright 2023 Litek Teahouse Group , Designed in Earth , Under the <a href="https://github.com/litekcn/lidesign/LICENSE">MIT License</a></h6>
+```sh
+# 使用 npm
+npm i water-design
+# 使用 yarn
+yarn add water-design
+# 使用 pnpm
+pnpm i water-design
+```
+
+**引用**
+
+```ts
+import { createApp } from 'vue'
+import App from './App.vue'
+import water-design from 'water-design'
+import 'water-design/style.css'
+createApp(App).use(water-design).mount('#app')
+```
+
+组件的详细用法请参考 <a href="https://water.licn.eu.org">「📃 文档」</a>。
+
+<h6>© Copyright 2023 Litek Design Teahouse , Designed in Earth , Under the <a href="https://github.com/litekcn/water/LICENSE">MIT License</a></h6>
 
 
 

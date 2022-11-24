@@ -44,9 +44,9 @@ const config = defineConfig({
           { text: 'Introduction', link: '/guide/introduction' },
           { text: 'Get Started', link: '/guide/get-started' }
         ],
-        text: 'Guide',
+        text: 'Component',
         items: [
-          { text: 'Introduction', link: '/guide/introduction' }
+          { text: 'Library', link: '/component/library' }
         ],
       }
     ],

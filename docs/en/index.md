@@ -30,5 +30,3 @@ features:
     title: Notepad
     details: Notepad 将是您最好的 IDE，程序员的最佳伙伴，因为 Spruce Sapling 曾说，真正的程序员不需要看提示，在 Notepad 里，我们去繁从简，取消了一切无用的功能。
 ---
-
-`Work in Progress`
